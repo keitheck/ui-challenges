@@ -1,0 +1,177 @@
+* {
+    /*   outline: orange 1px dotted */
+    }
+    
+    div {
+      font-family: Trebuchet, Sans-serif;
+    }
+    
+    .button-box {
+      postion: absolute:
+      width: 400px;
+      height: 230px;
+      margin: 50px 50px     
+    }
+    
+    .number {
+      display: inline-block;
+      width: 70px;
+      height: 150px;
+      color: #fff;
+      font-size: 220px;
+    /*   background-color: #666; */
+      margin-left: 30px;
+      margin-top: 60px
+    }
+    
+    .box {
+      background-color: #999;
+      background: linear-gradient(to bottom right, #999, #fff, #888, #fff);
+      width: 500px;
+      height: 750px;
+      margin: 50px 200px;
+      position: absolute;
+    /*   outline-color: #000;
+      outline-width: 5px;
+      outline-style: solid; */
+      border-radius: 4px;
+      border-color: #000;
+      border-style: solid;
+      border-width: 5px;
+    }
+    
+    .panel {
+      postion: absolute;
+      background-color: #000;
+      background: linear-gradient(to bottom right, #000, #222, #000, #555, #111);
+      width: 400px;
+      height: 330px;
+      margin: 50px;
+    /*   border-color: #000; */
+      border-style: solid;
+      border-width: 5px;
+      border-right-color: #444;
+      border-bottom-color: #777;
+    }
+    
+    .up {
+      position: absolute;
+      display: inline-block;
+      background-color: green;
+      width: 100px;
+      height: 100px;
+      margin-left: 150px;
+      margin-top: 40px;
+    }
+    
+    .down {
+      position: absolute;
+      display: inline-block;
+      background-color: red;
+      width: 100px;
+      height: 100px;
+      margin-left: 150px;
+      margin-top: 180px;
+    }
+    
+    .button1 {
+      position: absolute;
+      display: inline-block;
+      background: radial-gradient(#fff 50%, #999);
+      border-radius: 55px;
+      border-color: #000;
+      border-style: solid;
+      border-width: 5px;
+      border-right-color: #777;
+      border-bottom-color: #888;
+      border-left-color: #444;
+      border-top-color: #333;
+      width: 100px;
+      height: 100px;
+      margin: 155px 0px 0px 0px;
+      
+      &:hover {
+        background: radial-gradient(#fff 50%, #fffb3);
+      }
+    }
+    
+    /* .button1:active {
+      background: radial-gradient(#fff 50%, #fffb3);
+    } */
+    
+    .buttone {
+      postion: absolute;
+      font-size: 80px;
+      margin: 10px 0px 0px 27px
+    }
+    
+    .button2 {
+      position: absolute;
+      display: inline-block;
+      background: radial-gradient(#fff 50%, #999);
+      border-radius: 55px;
+      border-color: #000;
+      border-style: solid;
+      border-width: 5px;
+      border-right-color: #777;
+      border-bottom-color: #888;
+      border-left-color: #444;
+      border-top-color: #333;
+      width: 100px;
+      height: 100px;
+      margin: 155px 0px 0px 295px;
+    }
+    
+    .butttwo {
+      postion: absolute;
+      font-size: 80px;
+      margin: 10px 0px 0px 28px
+    }
+    
+    .button3 {
+      position: absolute;
+      display: inline-block;
+      background: radial-gradient(#fff 50%, #999);
+      border-radius: 55px;
+      border-color: #000;
+      border-style: solid;
+      border-width: 5px;
+      border-right-color: #777;
+      border-bottom-color: #888;
+      border-left-color: #444;
+      border-top-color: #333;
+      width: 100px;
+      height: 100px;
+      margin: 0px 0px 0px 0px;
+    }
+    
+    .buttthree {
+      postion: absolute;
+      font-size: 80px;
+      margin: 10px 0px 0px 28px
+    }
+    
+    .button4 {
+      position: absolute;
+      display: inline-block;
+      background: radial-gradient(#fff 50%, #999);
+      border-radius: 55px;
+      border-color: #000;
+      border-style: solid;
+      border-width: 5px;
+      border-right-color: #777;
+      border-bottom-color: #888;
+      border-left-color: #444;
+      border-top-color: #333;
+      width: 100px;
+      height: 100px;
+      margin: 0px 0px 0px 295px;
+    }
+    
+    .buttfour {
+      postion: absolute;
+      font-size: 80px;
+      margin: 10px 0px 0px 25px
+    }
+    
+    
